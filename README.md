@@ -1,7 +1,7 @@
 # BioInspired
 
 So this is the repo made for learning to play Ms.Pacman with Pacman.    
-It was wanted at one poitn to go all the way to play Alien, but due to time constraints it wasn't possible. 
+It was wanted at one point to go all the way to play Alien, but due to time constraints it wasn't possible. 
 That is why run_experiment doesn't work.
 
 Ran on collab, manually choose file path to load the model.
