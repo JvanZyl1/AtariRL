@@ -1,15 +1,13 @@
 # BioInspired
 
-So this is the repo made for learning to play Ms.Pacman with Pacman.    
-It was wanted at one point to go all the way to play Alien, but due to time constraints it wasn't possible. 
-That is why run_experiment doesn't work.
+So this is the repo made for learning to play Ms.Pacman with Pacman.
 
 Ran on collab, manually choose file path to load the model.
 
 Networks:
 1. Q-Network
 2. Dueling Q-Network
-s
+
 Transfer Learning:
 1. Non Progressive
 2. Proggresive Neural Networks
